@@ -29,7 +29,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor1]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_LOCUST__WBA__4_11_2018_4_59_59_379_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -37,7 +37,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor2]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_DEVON__WBA__4_11_2018_4_59_59_134_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -45,7 +45,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor3]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_LOCUST__4_11_2018_4_59_59_320_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -53,7 +53,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor4]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_WACKER__WBA__4_11_2018_4_59_59_550_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -61,7 +61,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor5]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_WACKER__EBA__4_11_2018_4_59_59_543_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -69,7 +69,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor6]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_DEVON__WBA__4_11_2018_4_59_59_134_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -77,7 +77,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor7]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_BRYANT__WB__4_11_2018_4_59_59_485_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -85,7 +85,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor8]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_DEVON__EB__4_11_2018_4_59_59_728_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -93,7 +93,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor9]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_DEVON__EBA__4_11_2018_4_59_59_793_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -101,7 +101,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor10]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_JFK__WB__4_11_2018_4_59_59_450_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -109,7 +109,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor11]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_JFK__WBA__4_11_2018_4_59_59_860_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -118,7 +118,7 @@ coordinate=5.2;10.1;11.2
 
 
 [sensor12]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_JFK__EB__4_11_2018_4_59_59_872_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -126,7 +126,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor13]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_UNIVERSITY__WB__4_11_2018_4_59_59_308_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -134,7 +134,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor14]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_UNIVERSITY__EB__4_11_2018_4_59_59_734_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -142,7 +142,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor15]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_CENTURY__WB__4_11_2018_5_00_00_072_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -150,7 +150,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor16]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_DEVON__EB__4_11_2018_4_59_59_728_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -158,7 +158,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor17]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_WACKER__WB__4_11_2018_4_59_57_927_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -166,7 +166,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor18]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_WACKER__EB__4_11_2018_4_59_59_473_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -174,7 +174,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor19]
-enable=1
+enable=0
 type=Camera
 id=HWY_20_AND_LOCUST__HILL_EB_26-76__4_11_2018_4_59_59_433_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -193,7 +193,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place1]
-enable=1
+enable=0
 id=1
 type=intersection/road
 name=HWY_20_AND_LOCUST__WBA
@@ -204,7 +204,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place2]
-enable=1
+enable=0
 id=2
 type=intersection/road
 name=HWY_20_AND_DEVON__WBA
@@ -215,7 +215,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place3]
-enable=1
+enable=0
 id=3
 type=intersection/road
 name=HWY_20_AND_LOCUST
@@ -226,7 +226,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place4]
-enable=1
+enable=0
 id=4
 type=intersection/road
 name=HWY_20_AND_WACKER__WBA
@@ -237,7 +237,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place5]
-enable=1
+enable=0
 id=5
 type=intersection/road
 name=HWY_20_AND_WACKER__EBA
@@ -248,7 +248,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place6]
-enable=1
+enable=0
 id=6
 type=intersection/road
 name=HWY_20_AND_DEVON__WBA
@@ -259,7 +259,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place7]
-enable=1
+enable=0
 id=7
 type=intersection/road
 name=HWY_20_AND_BRYANT__WB
@@ -270,7 +270,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place8]
-enable=1
+enable=0
 id=8
 type=intersection/road
 name=HWY_20_AND_DEVON__EB
@@ -281,7 +281,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place9]
-enable=1
+enable=0
 id=9
 type=intersection/road
 name=HWY_20_AND_DEVON__EBA
@@ -292,7 +292,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place10]
-enable=1
+enable=0
 id=10
 type=intersection/road
 name=HWY_20_AND_JFK__WB
@@ -303,7 +303,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place11]
-enable=1
+enable=0
 id=11
 type=intersection/road
 name=HWY_20_AND_JFK__WBA
@@ -314,7 +314,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place12]
-enable=1
+enable=0
 id=12
 type=intersection/road
 name=HWY_20_AND_JFK__EB
@@ -325,7 +325,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place13]
-enable=1
+enable=0
 id=13
 type=intersection/road
 name=HWY_20_AND_UNIVERSITY__WB
@@ -336,7 +336,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place14]
-enable=1
+enable=0
 id=14
 type=intersection/road
 name=HWY_20_AND_UNIVERSITY__EB
@@ -347,7 +347,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place15]
-enable=1
+enable=0
 id=15
 type=intersection/road
 name=HWY_20_AND_CENTURY__WB
@@ -358,7 +358,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place16]
-enable=1
+enable=0
 id=16
 type=intersection/road
 name=HWY_20_AND_DEVON__EB
@@ -369,7 +369,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place17]
-enable=1
+enable=0
 id=17
 type=intersection/road
 name=HWY_20_AND_WACKER__WB
@@ -380,7 +380,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place18]
-enable=1
+enable=0
 id=18
 type=intersection/road
 name=HWY_20_AND_WACKER__EB
@@ -391,7 +391,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place19]
-enable=1
+enable=0
 id=19
 type=intersection/road
 name=HWY_20_AND_LOCUST__HILL_EB
@@ -404,7 +404,7 @@ place-sub-field3=P1
 ## Group 2
 
 [sensor20]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_LOCUST__EBA__4_11_2018_4_59_59_508_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -412,7 +412,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor21]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_LOCUST__WBA__4_11_2018_4_59_59_379_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -420,7 +420,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor22]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_DEVON__WBA__4_11_2018_4_59_59_134_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -428,7 +428,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor23]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_LOCUST__4_11_2018_4_59_59_320_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -436,7 +436,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor24]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_WACKER__WBA__4_11_2018_4_59_59_550_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -444,7 +444,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor25]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_WACKER__EBA__4_11_2018_4_59_59_543_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -452,7 +452,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor26]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_DEVON__WBA__4_11_2018_4_59_59_134_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -460,7 +460,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor27]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_BRYANT__WB__4_11_2018_4_59_59_485_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -468,7 +468,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor28]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_DEVON__EB__4_11_2018_4_59_59_728_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -476,7 +476,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor29]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_DEVON__EBA__4_11_2018_4_59_59_793_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -484,7 +484,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor30]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_JFK__WB__4_11_2018_4_59_59_450_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -492,7 +492,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor31]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_JFK__WBA__4_11_2018_4_59_59_860_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -501,7 +501,7 @@ coordinate=5.2;10.1;11.2
 
 
 [sensor32]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_JFK__EB__4_11_2018_4_59_59_872_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -509,7 +509,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor33]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_UNIVERSITY__WB__4_11_2018_4_59_59_308_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -517,7 +517,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor34]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_UNIVERSITY__EB__4_11_2018_4_59_59_734_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -525,7 +525,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor35]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_CENTURY__WB__4_11_2018_5_00_00_072_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -533,7 +533,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor36]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_DEVON__EB__4_11_2018_4_59_59_728_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -541,7 +541,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor37]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_WACKER__WB__4_11_2018_4_59_57_927_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -549,7 +549,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor38]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_WACKER__EB__4_11_2018_4_59_59_473_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -557,7 +557,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor39]
-enable=1
+enable=0
 type=Camera
 id=INT2_HWY_20_AND_LOCUST__HILL_EB_26-76__4_11_2018_4_59_59_433_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -565,7 +565,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [place20]
-enable=1
+enable=0
 id=0
 type=intersection/road
 name=INT2_HWY_20_AND_LOCUST__EBA
@@ -576,7 +576,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place21]
-enable=1
+enable=0
 id=1
 type=intersection/road
 name=INT2_HWY_20_AND_LOCUST__WBA
@@ -587,7 +587,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place22]
-enable=1
+enable=0
 id=2
 type=intersection/road
 name=INT2_HWY_20_AND_DEVON__WBA
@@ -598,7 +598,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place23]
-enable=1
+enable=0
 id=3
 type=intersection/road
 name=INT2_HWY_20_AND_LOCUST
@@ -609,7 +609,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place24]
-enable=1
+enable=0
 id=4
 type=intersection/road
 name=INT2_HWY_20_AND_WACKER__WBA
@@ -620,7 +620,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place25]
-enable=1
+enable=0
 id=5
 type=intersection/road
 name=INT2_HWY_20_AND_WACKER__EBA
@@ -631,7 +631,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place26]
-enable=1
+enable=0
 id=6
 type=intersection/road
 name=INT2_HWY_20_AND_DEVON__WBA
@@ -642,7 +642,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place27]
-enable=1
+enable=0
 id=7
 type=intersection/road
 name=INT2_HWY_20_AND_BRYANT__WB
@@ -653,7 +653,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place28]
-enable=1
+enable=0
 id=8
 type=intersection/road
 name=INT2_HWY_20_AND_DEVON__EB
@@ -664,7 +664,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place29]
-enable=1
+enable=0
 id=9
 type=intersection/road
 name=INT2_HWY_20_AND_DEVON__EBA
@@ -675,7 +675,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place30]
-enable=1
+enable=0
 id=10
 type=intersection/road
 name=INT2_HWY_20_AND_JFK__WB
@@ -686,7 +686,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place31]
-enable=1
+enable=0
 id=11
 type=intersection/road
 name=INT2_HWY_20_AND_JFK__WBA
@@ -697,7 +697,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place32]
-enable=1
+enable=0
 id=12
 type=intersection/road
 name=INT2_HWY_20_AND_JFK__EB
@@ -708,7 +708,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place33]
-enable=1
+enable=0
 id=13
 type=intersection/road
 name=INT2_HWY_20_AND_UNIVERSITY__WB
@@ -719,7 +719,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place34]
-enable=1
+enable=0
 id=14
 type=intersection/road
 name=INT2_HWY_20_AND_UNIVERSITY__EB
@@ -730,7 +730,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place35]
-enable=1
+enable=0
 id=15
 type=intersection/road
 name=INT2_HWY_20_AND_CENTURY__WB
@@ -741,7 +741,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place36]
-enable=1
+enable=0
 id=16
 type=intersection/road
 name=INT2_HWY_20_AND_DEVON__EB
@@ -752,7 +752,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place37]
-enable=1
+enable=0
 id=17
 type=intersection/road
 name=INT2_HWY_20_AND_WACKER__WB
@@ -763,7 +763,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place38]
-enable=1
+enable=0
 id=18
 type=intersection/road
 name=INT2_HWY_20_AND_WACKER__EB
@@ -774,7 +774,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place39]
-enable=1
+enable=0
 id=19
 type=intersection/road
 name=INT2_HWY_20_AND_LOCUST__HILL_EB
@@ -786,7 +786,7 @@ place-sub-field3=P1
 
 ## Group 3
 [sensor40]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_LOCUST__EBA__4_11_2018_4_59_59_508_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -794,7 +794,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor41]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_LOCUST__WBA__4_11_2018_4_59_59_379_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -802,7 +802,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor42]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_DEVON__WBA__4_11_2018_4_59_59_134_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -810,7 +810,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor43]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_LOCUST__4_11_2018_4_59_59_320_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -818,7 +818,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor44]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_WACKER__WBA__4_11_2018_4_59_59_550_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -826,7 +826,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor45]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_WACKER__EBA__4_11_2018_4_59_59_543_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -834,7 +834,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor46]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_DEVON__WBA__4_11_2018_4_59_59_134_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -842,7 +842,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor47]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_BRYANT__WB__4_11_2018_4_59_59_485_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -850,7 +850,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor48]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_DEVON__EB__4_11_2018_4_59_59_728_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -858,7 +858,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor49]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_DEVON__EBA__4_11_2018_4_59_59_793_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -866,7 +866,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor50]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_JFK__WB__4_11_2018_4_59_59_450_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -874,7 +874,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor51]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_JFK__WBA__4_11_2018_4_59_59_860_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -883,7 +883,7 @@ coordinate=5.2;10.1;11.2
 
 
 [sensor52]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_JFK__EB__4_11_2018_4_59_59_872_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -891,7 +891,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor53]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_UNIVERSITY__WB__4_11_2018_4_59_59_308_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -899,7 +899,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor54]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_UNIVERSITY__EB__4_11_2018_4_59_59_734_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -907,7 +907,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor55]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_CENTURY__WB__4_11_2018_5_00_00_072_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -915,7 +915,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor56]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_DEVON__EB__4_11_2018_4_59_59_728_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -923,7 +923,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor57]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_WACKER__WB__4_11_2018_4_59_57_927_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -931,7 +931,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor58]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_WACKER__EB__4_11_2018_4_59_59_473_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -939,7 +939,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor59]
-enable=1
+enable=0
 type=Camera
 id=INT3_HWY_20_AND_LOCUST__HILL_EB_26-76__4_11_2018_4_59_59_433_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -947,7 +947,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [place40]
-enable=1
+enable=0
 id=0
 type=intersection/road
 name=INT3_HWY_20_AND_LOCUST__EBA
@@ -958,7 +958,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place41]
-enable=1
+enable=0
 id=1
 type=intersection/road
 name=INT3_HWY_20_AND_LOCUST__WBA
@@ -969,7 +969,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place42]
-enable=1
+enable=0
 id=2
 type=intersection/road
 name=INT3_HWY_20_AND_DEVON__WBA
@@ -980,7 +980,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place43]
-enable=1
+enable=0
 id=3
 type=intersection/road
 name=INT3_HWY_20_AND_LOCUST
@@ -991,7 +991,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place44]
-enable=1
+enable=0
 id=4
 type=intersection/road
 name=INT3_HWY_20_AND_WACKER__WBA
@@ -1002,7 +1002,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place45]
-enable=1
+enable=0
 id=5
 type=intersection/road
 name=INT3_HWY_20_AND_WACKER__EBA
@@ -1013,7 +1013,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place46]
-enable=1
+enable=0
 id=6
 type=intersection/road
 name=INT3_HWY_20_AND_DEVON__WBA
@@ -1024,7 +1024,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place47]
-enable=1
+enable=0
 id=7
 type=intersection/road
 name=INT3_HWY_20_AND_BRYANT__WB
@@ -1035,7 +1035,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place48]
-enable=1
+enable=0
 id=8
 type=intersection/road
 name=INT3_HWY_20_AND_DEVON__EB
@@ -1046,7 +1046,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place49]
-enable=1
+enable=0
 id=9
 type=intersection/road
 name=INT3_HWY_20_AND_DEVON__EBA
@@ -1057,7 +1057,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place50]
-enable=1
+enable=0
 id=10
 type=intersection/road
 name=INT3_HWY_20_AND_JFK__WB
@@ -1068,7 +1068,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place51]
-enable=1
+enable=0
 id=11
 type=intersection/road
 name=INT3_HWY_20_AND_JFK__WBA
@@ -1079,7 +1079,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place52]
-enable=1
+enable=0
 id=12
 type=intersection/road
 name=INT3_HWY_20_AND_JFK__EB
@@ -1090,7 +1090,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place53]
-enable=1
+enable=0
 id=13
 type=intersection/road
 name=INT3_HWY_20_AND_UNIVERSITY__WB
@@ -1101,7 +1101,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place54]
-enable=1
+enable=0
 id=14
 type=intersection/road
 name=INT3_HWY_20_AND_UNIVERSITY__EB
@@ -1112,7 +1112,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place55]
-enable=1
+enable=0
 id=15
 type=intersection/road
 name=INT3_HWY_20_AND_CENTURY__WB
@@ -1123,7 +1123,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place56]
-enable=1
+enable=0
 id=16
 type=intersection/road
 name=INT3_HWY_20_AND_DEVON__EB
@@ -1134,7 +1134,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place57]
-enable=1
+enable=0
 id=17
 type=intersection/road
 name=INT3_HWY_20_AND_WACKER__WB
@@ -1145,7 +1145,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place58]
-enable=1
+enable=0
 id=18
 type=intersection/road
 name=INT3_HWY_20_AND_WACKER__EB
@@ -1156,7 +1156,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place59]
-enable=1
+enable=0
 id=19
 type=intersection/road
 name=INT3_HWY_20_AND_LOCUST__HILL_EB
@@ -1168,7 +1168,7 @@ place-sub-field3=P1
 
 ## Group 4
 [sensor60]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_LOCUST__EBA__4_11_2018_4_59_59_508_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1176,7 +1176,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor61]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_LOCUST__WBA__4_11_2018_4_59_59_379_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1184,7 +1184,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor62]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_DEVON__WBA__4_11_2018_4_59_59_134_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1192,7 +1192,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor63]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_LOCUST__4_11_2018_4_59_59_320_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1200,7 +1200,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor64]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_WACKER__WBA__4_11_2018_4_59_59_550_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1208,7 +1208,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor65]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_WACKER__EBA__4_11_2018_4_59_59_543_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1216,7 +1216,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor66]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_DEVON__WBA__4_11_2018_4_59_59_134_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1224,7 +1224,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor67]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_BRYANT__WB__4_11_2018_4_59_59_485_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1232,7 +1232,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor68]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_DEVON__EB__4_11_2018_4_59_59_728_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1240,7 +1240,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor69]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_DEVON__EBA__4_11_2018_4_59_59_793_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1248,7 +1248,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor70]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_JFK__WB__4_11_2018_4_59_59_450_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1256,7 +1256,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor71]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_JFK__WBA__4_11_2018_4_59_59_860_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1265,7 +1265,7 @@ coordinate=5.2;10.1;11.2
 
 
 [sensor72]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_JFK__EB__4_11_2018_4_59_59_872_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1273,7 +1273,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor73]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_UNIVERSITY__WB__4_11_2018_4_59_59_308_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1281,7 +1281,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor74]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_UNIVERSITY__EB__4_11_2018_4_59_59_734_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1289,7 +1289,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor75]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_CENTURY__WB__4_11_2018_5_00_00_072_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1297,7 +1297,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor76]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_DEVON__EB__4_11_2018_4_59_59_728_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1305,7 +1305,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor77]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_WACKER__WB__4_11_2018_4_59_57_927_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1313,7 +1313,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor78]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_WACKER__EB__4_11_2018_4_59_59_473_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1321,7 +1321,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor79]
-enable=1
+enable=0
 type=Camera
 id=INT4_HWY_20_AND_LOCUST__HILL_EB_26-76__4_11_2018_4_59_59_433_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1329,7 +1329,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [place60]
-enable=1
+enable=0
 id=0
 type=intersection/road
 name=INT4_HWY_20_AND_LOCUST__EBA
@@ -1340,7 +1340,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place61]
-enable=1
+enable=0
 id=1
 type=intersection/road
 name=INT4_HWY_20_AND_LOCUST__WBA
@@ -1351,7 +1351,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place62]
-enable=1
+enable=0
 id=2
 type=intersection/road
 name=INT4_HWY_20_AND_DEVON__WBA
@@ -1362,7 +1362,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place63]
-enable=1
+enable=0
 id=3
 type=intersection/road
 name=INT4_HWY_20_AND_LOCUST
@@ -1373,7 +1373,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place64]
-enable=1
+enable=0
 id=4
 type=intersection/road
 name=INT4_HWY_20_AND_WACKER__WBA
@@ -1384,7 +1384,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place65]
-enable=1
+enable=0
 id=5
 type=intersection/road
 name=INT4_HWY_20_AND_WACKER__EBA
@@ -1395,7 +1395,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place66]
-enable=1
+enable=0
 id=6
 type=intersection/road
 name=INT4_HWY_20_AND_DEVON__WBA
@@ -1406,7 +1406,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place67]
-enable=1
+enable=0
 id=7
 type=intersection/road
 name=INT4_HWY_20_AND_BRYANT__WB
@@ -1417,7 +1417,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place68]
-enable=1
+enable=0
 id=8
 type=intersection/road
 name=INT4_HWY_20_AND_DEVON__EB
@@ -1428,7 +1428,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place69]
-enable=1
+enable=0
 id=9
 type=intersection/road
 name=INT4_HWY_20_AND_DEVON__EBA
@@ -1439,7 +1439,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place70]
-enable=1
+enable=0
 id=10
 type=intersection/road
 name=INT4_HWY_20_AND_JFK__WB
@@ -1450,7 +1450,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place71]
-enable=1
+enable=0
 id=11
 type=intersection/road
 name=INT4_HWY_20_AND_JFK__WBA
@@ -1461,7 +1461,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place72]
-enable=1
+enable=0
 id=12
 type=intersection/road
 name=INT4_HWY_20_AND_JFK__EB
@@ -1472,7 +1472,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place73]
-enable=1
+enable=0
 id=13
 type=intersection/road
 name=INT4_HWY_20_AND_UNIVERSITY__WB
@@ -1483,7 +1483,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place74]
-enable=1
+enable=0
 id=14
 type=intersection/road
 name=INT4_HWY_20_AND_UNIVERSITY__EB
@@ -1494,7 +1494,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place75]
-enable=1
+enable=0
 id=15
 type=intersection/road
 name=INT4_HWY_20_AND_CENTURY__WB
@@ -1505,7 +1505,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place76]
-enable=1
+enable=0
 id=16
 type=intersection/road
 name=INT4_HWY_20_AND_DEVON__EB
@@ -1516,7 +1516,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place77]
-enable=1
+enable=0
 id=17
 type=intersection/road
 name=INT4_HWY_20_AND_WACKER__WB
@@ -1527,7 +1527,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place78]
-enable=1
+enable=0
 id=18
 type=intersection/road
 name=INT4_HWY_20_AND_WACKER__EB
@@ -1538,7 +1538,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place79]
-enable=1
+enable=0
 id=19
 type=intersection/road
 name=INT4_HWY_20_AND_LOCUST__HILL_EB
@@ -1550,7 +1550,7 @@ place-sub-field3=P1
 
 ## Group 5
 [sensor80]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_LOCUST__EBA__4_11_2018_4_59_59_508_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1558,7 +1558,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor81]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_LOCUST__WBA__4_11_2018_4_59_59_379_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1566,7 +1566,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor82]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_DEVON__WBA__4_11_2018_4_59_59_134_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1574,7 +1574,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor83]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_LOCUST__4_11_2018_4_59_59_320_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1582,7 +1582,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor84]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_WACKER__WBA__4_11_2018_4_59_59_550_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1590,7 +1590,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor85]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_WACKER__EBA__4_11_2018_4_59_59_543_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1598,7 +1598,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor86]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_DEVON__WBA__4_11_2018_4_59_59_134_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1606,7 +1606,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor87]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_BRYANT__WB__4_11_2018_4_59_59_485_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1614,7 +1614,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor88]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_DEVON__EB__4_11_2018_4_59_59_728_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1622,7 +1622,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor89]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_DEVON__EBA__4_11_2018_4_59_59_793_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1630,7 +1630,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor90]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_JFK__WB__4_11_2018_4_59_59_450_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1638,7 +1638,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor91]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_JFK__WBA__4_11_2018_4_59_59_860_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1647,7 +1647,7 @@ coordinate=5.2;10.1;11.2
 
 
 [sensor92]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_JFK__EB__4_11_2018_4_59_59_872_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1655,7 +1655,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor93]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_UNIVERSITY__WB__4_11_2018_4_59_59_308_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1663,7 +1663,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor94]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_UNIVERSITY__EB__4_11_2018_4_59_59_734_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1671,7 +1671,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor95]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_CENTURY__WB__4_11_2018_5_00_00_072_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1679,7 +1679,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor96]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_DEVON__EB__4_11_2018_4_59_59_728_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1687,7 +1687,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor97]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_WACKER__WB__4_11_2018_4_59_57_927_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1695,7 +1695,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor98]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_WACKER__EB__4_11_2018_4_59_59_473_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1703,7 +1703,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [sensor99]
-enable=1
+enable=0
 type=Camera
 id=INT5_HWY_20_AND_LOCUST__HILL_EB_26-76__4_11_2018_4_59_59_433_AM_UTC-07_00
 location=45.293701447;-75.8303914499;48.1557479338
@@ -1711,7 +1711,7 @@ description=Aisle Camera
 coordinate=5.2;10.1;11.2
 
 [place80]
-enable=1
+enable=0
 id=0
 type=intersection/road
 name=INT5_HWY_20_AND_LOCUST__EBA
@@ -1722,7 +1722,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place81]
-enable=1
+enable=0
 id=1
 type=intersection/road
 name=INT5_HWY_20_AND_LOCUST__WBA
@@ -1733,7 +1733,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place82]
-enable=1
+enable=0
 id=2
 type=intersection/road
 name=INT5_HWY_20_AND_DEVON__WBA
@@ -1744,7 +1744,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place83]
-enable=1
+enable=0
 id=3
 type=intersection/road
 name=INT5_HWY_20_AND_LOCUST
@@ -1755,7 +1755,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place84]
-enable=1
+enable=0
 id=4
 type=intersection/road
 name=INT5_HWY_20_AND_WACKER__WBA
@@ -1766,7 +1766,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place85]
-enable=1
+enable=0
 id=5
 type=intersection/road
 name=INT5_HWY_20_AND_WACKER__EBA
@@ -1777,7 +1777,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place86]
-enable=1
+enable=0
 id=6
 type=intersection/road
 name=INT5_HWY_20_AND_DEVON__WBA
@@ -1788,7 +1788,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place87]
-enable=1
+enable=0
 id=7
 type=intersection/road
 name=INT5_HWY_20_AND_BRYANT__WB
@@ -1799,7 +1799,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place88]
-enable=1
+enable=0
 id=8
 type=intersection/road
 name=INT5_HWY_20_AND_DEVON__EB
@@ -1810,7 +1810,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place89]
-enable=1
+enable=0
 id=9
 type=intersection/road
 name=INT5_HWY_20_AND_DEVON__EBA
@@ -1821,7 +1821,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place90]
-enable=1
+enable=0
 id=10
 type=intersection/road
 name=INT5_HWY_20_AND_JFK__WB
@@ -1832,7 +1832,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place91]
-enable=1
+enable=0
 id=11
 type=intersection/road
 name=INT5_HWY_20_AND_JFK__WBA
@@ -1843,7 +1843,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place92]
-enable=1
+enable=0
 id=12
 type=intersection/road
 name=INT5_HWY_20_AND_JFK__EB
@@ -1854,7 +1854,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place93]
-enable=1
+enable=0
 id=13
 type=intersection/road
 name=INT5_HWY_20_AND_UNIVERSITY__WB
@@ -1865,7 +1865,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place94]
-enable=1
+enable=0
 id=14
 type=intersection/road
 name=INT5_HWY_20_AND_UNIVERSITY__EB
@@ -1876,7 +1876,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place95]
-enable=1
+enable=0
 id=15
 type=intersection/road
 name=INT5_HWY_20_AND_CENTURY__WB
@@ -1887,7 +1887,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place96]
-enable=1
+enable=0
 id=16
 type=intersection/road
 name=INT5_HWY_20_AND_DEVON__EB
@@ -1898,7 +1898,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place97]
-enable=1
+enable=0
 id=17
 type=intersection/road
 name=INT5_HWY_20_AND_WACKER__WB
@@ -1909,7 +1909,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place98]
-enable=1
+enable=0
 id=18
 type=intersection/road
 name=INT5_HWY_20_AND_WACKER__EB
@@ -1920,7 +1920,7 @@ place-sub-field2=Lane 1
 place-sub-field3=P1
 
 [place99]
-enable=1
+enable=0
 id=19
 type=intersection/road
 name=INT5_HWY_20_AND_LOCUST__HILL_EB
@@ -1938,7 +1938,7 @@ source=OpenALR
 version=1.0
 
 [analytics1]
-enable=1
+enable=0
 id=XYZ
 #description=Vehicle Detection and License Plate Recognition 1
 source=OpenALR
